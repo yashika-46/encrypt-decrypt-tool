@@ -1,5 +1,4 @@
 # encrypt-decrypt-tool
-# Encryption Tool
 
 A modern, user-friendly desktop application for encrypting and decrypting text or files using AES, DES, and RSA algorithms. Built with Python and Tkinter, it features a clean GUI, dark/light mode toggle, and support for both text and file encryption.
 
